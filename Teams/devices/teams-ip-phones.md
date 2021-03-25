@@ -98,6 +98,7 @@ The following are the latest Teams phone app and firmware versions.
 
 | Product release | Release date  | Microsoft Teams app version | Company Portal version | Admin Agent version |
 |:----------------|:--------------|:----------------------------|:-----------------------|:--------------------|
+| 2021 Update #1  | March 26, 2021  |1449/1.0.94.2021022403 | 5.0.5045.0            | 1.0.0.202101280722.product (253) |
 | 2020 Update #7  | December 8, 2020  |1449/1.0.94.2020111101 | 5.0.4927.0            | 1.0.0.202010121132.product (.223) |
 | 2020 Update #6  | October 12, 2020  |1449/1.0.94.2020091801     | 5.0.4912.0             | 1.0.0.202006290446.product(216) |
 | 2020 Update #5  | August 31, 2020 | 1449/1.0.94.2020071702    | 5.0.4867.0             | 1.0.0.202006290446.product(216) |
